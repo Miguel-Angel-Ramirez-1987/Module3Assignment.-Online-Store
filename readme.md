@@ -1,6 +1,6 @@
 Project Title: Module 3 Assignment: Online Store
     
-    In week three the class is using their html and css skills to build various webpages with the goal of building a simple Online Store.
+    In week three the class is using their html skills to build various webpages with the goal of building a simple Online Store.
 
 Description: 
 
